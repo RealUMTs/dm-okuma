@@ -1,6 +1,8 @@
 {
   "app_name": "UMTs DM Scanner Pro",
   "license_name": "UMTS-2026-ACTIVE",
-  "version": "1.0.0",
-  "enabled": true
+  "version": "1.4.0",
+  "enabled": true,
+  "message_disabled": "Hizmet geçici olarak kapatıldı.",
+  "message_update": "Yeni sürüm mevcut! Lütfen güncelle."
 }
